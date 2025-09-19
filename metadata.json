@@ -1,0 +1,5 @@
+{
+  "name": "Pikzels - AI Thumbnail Maker",
+  "description": "An AI-powered thumbnail generator that creates custom video thumbnails for content creators and YouTubers. It offers FaceSwap technology, generates titles, and supports multiple thumbnail formats to help improve content's visual appeal and click-through rates.",
+  "requestFramePermissions": []
+}
